@@ -2,7 +2,7 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me is Skype
+- 📫 How to reach me is Skype: live:.cid.a6000ece8601013d
 
 <!---
 yellowflash2041/yellowflash2041 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
