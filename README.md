@@ -6,10 +6,9 @@
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me is Skype: live:.cid.a6000ece8601013d
 
-[![Yellow Flash](yellow-flash.gif)](https://Rasengan.yellowflash2041.repl.co)
+[![Yellow Flash](https://user-images.githubusercontent.com/110062591/199079656-423e3923-2c4a-4b45-bd66-a0760455b2e6.gif)](https://Rasengan.yellowflash2041.repl.co)
 
 <!---
 yellowflash2041/yellowflash2041 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-https://media.giphy.com/media/B7jjBVpmMSYcHo35ti/giphy.gif
 --->
