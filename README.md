@@ -1,4 +1,4 @@
-# README
+# Yellow Flash
 
 - 👋 Hi, I’m @yellowflash2041
 - 👀 I’m interested in music
