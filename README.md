@@ -45,55 +45,57 @@
 
 <h2>🚀 Skills and Tools I Have Used and Learned</h2>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40"/>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40"/>
+</p>
 
 <h2>🏆 My GitHub Profile Trophy & Stats!</h2>
 <a href="https://github.com/yellowflash2041">
