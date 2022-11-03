@@ -64,7 +64,7 @@
 ### 🌐 Browsers
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" width="40" />
 </p>
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
