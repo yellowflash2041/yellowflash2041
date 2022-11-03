@@ -169,7 +169,7 @@
 
 <h2>📈 My GitHub Stats!</h2>
 <a href="https://github.com/yellowflash2041">
-  <img src="https://github-readme-stats.vercel.app/api?username=yellowflash2041&bg_color=30,163221,372735&theme=vue-dark&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yellowflash2041&include_all_commits=true&bg_color=30,163221,372735&theme=vue-dark&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowflash2041&bg_color=30,163221,372735&theme=vue-dark&layout=compact" />
 </a>
 
