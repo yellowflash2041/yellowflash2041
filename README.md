@@ -6,7 +6,7 @@
   <a href="https://codepen.io/yellowflash2041">
     <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen"/>
   </a>
-  <a href="https://www.freecodecamp.org/fcc97b4fc3d-4827-47a5-bcd3-38fde65fdea0">
+  <a href="https://www.freecodecamp.org/yellowflash2041">
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&logo=freecodecamp"/>
   </a>
   <a href="https://join.skype.com/invite/wakJJYn0KpVO">
