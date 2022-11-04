@@ -3,31 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.to/yellowflash2041">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to"/>
-  </a>
-  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium"/>
   <a href="https://codepen.io/yellowflash2041">
     <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen"/>
-  </a>
-  <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?logo=StackExchange"/>
-  <a href="https://stackoverflow.com/users/20141766/yellow-flash">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/>
   </a>
   <a href="https://www.freecodecamp.org/fcc97b4fc3d-4827-47a5-bcd3-38fde65fdea0">
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&logo=freecodecamp"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   <a href="https://join.skype.com/invite/wakJJYn0KpVO">
     <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack"/>
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram"/>
-  <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?logo=AngelList&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Freelancer-29B2FE?logo=Freelancer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/indeed-003A9B?logo=indeed"/>
-  <img src="https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white"/>
 </p>
 
 <p align="center">
