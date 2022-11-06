@@ -20,9 +20,6 @@
 </p>
 
 <p align="center">
-  <a href="https://Rasengan.yellowflash2041.repl.co">
-    <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
-  </a>
   <a href="https://Belt.yellowflash2041.repl.co">
     <img src="https://user-images.githubusercontent.com/110062591/199593953-c3fe6b61-9333-43b0-ace6-c64f3df47705.gif" />
   </a>
@@ -88,6 +85,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yellowflash2041&count_private=true&include_all_commits=true&bg_color=30,163221,372735&theme=vue-dark&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowflash2041&bg_color=30,163221,372735&theme=vue-dark&layout=compact" />
 </a>
+
+<p align="center">
+  <a href="https://Rasengan.yellowflash2041.repl.co">
+    <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer" />
 
