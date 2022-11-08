@@ -74,7 +74,9 @@
 <h2>🏆 My GitHub Profile Trophy & Stats!</h2>
 <a href="https://github.com/yellowflash2041">
   <img src="https://github-profile-trophy.vercel.app/?username=yellowflash2041&column=-1&theme=gruvbox"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yellowflash2041&count_private=true&include_all_commits=true&bg_color=30,163221,372735&theme=vue-dark&show_icons=true" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yellowflash2041&count_private=true&include_all_commits=true&bg_color=30,163221,372735&theme=vue-dark&show_icons=true" />
+  </p>
 </a>
 
 <p align="center">
