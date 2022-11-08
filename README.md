@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h2>🚀 Skills and Tools I Have Used and Learned</h2>
+<h2 align="center">🚀 Skills and Tools I Have Used and Learned</h2>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" width="40"/>
@@ -71,7 +71,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40"/>
 </p>
 
-<h2>🏆 My GitHub Profile Trophy & Stats!</h2>
+<h2 align="center">🏆 My GitHub Profile Trophy & Stats!</h2>
 <a href="https://github.com/yellowflash2041">
   <img src="https://github-profile-trophy.vercel.app/?username=yellowflash2041&column=-1&theme=gruvbox"/>
   <p align="center">
