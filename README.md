@@ -83,7 +83,6 @@
 <a href="https://github.com/yellowflash2041">
   <img src="https://github-profile-trophy.vercel.app/?username=yellowflash2041&theme=gruvbox"/>
   <img src="https://github-readme-stats.vercel.app/api?username=yellowflash2041&count_private=true&include_all_commits=true&bg_color=30,163221,372735&theme=vue-dark&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowflash2041&bg_color=30,163221,372735&theme=vue-dark&layout=compact" />
 </a>
 
 <p align="center">
