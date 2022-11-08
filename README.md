@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello🤗🤝🧗!"/>
-</p>
-
-<p align="center">
   <a href="https://codepen.io/yellowflash2041">
     <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen"/>
   </a>
