@@ -12,7 +12,7 @@
   <a href="https://t.me/yellowflash2041">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord"/>
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white"/>
 </p>
 
 <p align="center">
