@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white"/>
   </a>
   <a href="https://t.me/yellowflash2041">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram"/>
   </a>
 </p>
 
