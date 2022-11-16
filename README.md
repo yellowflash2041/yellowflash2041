@@ -9,6 +9,9 @@
   <a href="https://join.skype.com/invite/wakJJYn0KpVO">
     <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white"/>
   </a>
+  <a href="https://t.me/yellowflash2041">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
+  </a>
 </p>
 
 <p align="center">
