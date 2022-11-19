@@ -75,11 +75,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40"/>
 </p>
 
-<h2 align="center">🏆 My GitHub Profile Trophy & Stats!</h2>
-<a href="https://github.com/yellowflash2041">
-  <img src="https://github-profile-trophy.vercel.app/?username=yellowflash2041&column=-1&theme=matrix&no-bg=true"/>
-</a>
-
 <p align="center">
   <a href="https://Rasengan.yellowflash2041.repl.co">
     <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
