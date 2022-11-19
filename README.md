@@ -4,7 +4,6 @@
   </a>
   <a href="https://www.freecodecamp.org/yellowflash2041">
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&logo=freecodecamp"/>
-    <img src="https://img.shields.io/freecodecamp/points/yellowflash2041"/>
   </a>
   <a href="https://join.skype.com/invite/wakJJYn0KpVO">
     <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white"/>
