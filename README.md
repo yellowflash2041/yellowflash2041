@@ -14,12 +14,6 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="https://Belt.yellowflash2041.repl.co">
-    <img src="https://user-images.githubusercontent.com/110062591/199593953-c3fe6b61-9333-43b0-ace6-c64f3df47705.gif" />
-  </a>
-</p>
-
 <h2 align="center">🚀 Skills and Tools I Have Used and Learned</h2>
 
 <p align="center">
@@ -35,7 +29,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
